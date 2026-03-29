@@ -2,7 +2,7 @@ name: Build Minescript (Fabric Only)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "feature-scoreboard" ]
   pull_request:
 
 jobs:
